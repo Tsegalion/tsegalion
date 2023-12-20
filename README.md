@@ -10,7 +10,7 @@ I'm a Data Engineer, and I'm passionate about sharing my knowledge on building d
 - 🌱 I’m currently learning big data tools, and upskilling my Python skills.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Engineer, Analytics Engineer, or Data Analysis (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1_3_kgDx3-JdRFacAv84JzuVTOEnc1Q-C/view?usp=sharing) and contact me by emailing tyebunoluwa@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1FQOvB4pWafmm7tmP0-PQhqAMiQwJRXM3/view?usp=sharing) and contact me by emailing tyebunoluwa@gmail.com.
 
 ---
 
