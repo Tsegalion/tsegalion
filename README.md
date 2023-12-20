@@ -6,7 +6,7 @@ I'm a Data Engineer, and I'm passionate about sharing my knowledge on building d
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Data Engineering].
+- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Data Engineering.
 - 🌱 I’m currently learning big data tools, and upskilling my Python skills.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Engineer, Analytics Engineer, or Data Analysis (Intern or Junior level).
