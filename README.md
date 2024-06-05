@@ -8,8 +8,8 @@ I'm a Data Engineer, and I'm passionate about sharing my knowledge on building d
 - 😊 Data Engineer @ iHealth and Wellnes Foundation
 - 💡 Fun fact: I'm so nice!! 😁
 - 🌱 I’m currently building and orchestrating job aggregation pipelines to fine-tune an AI model for seamless job searching!
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Data Engineer and Analytics Engineer (Junior level).
+- 😊 I’m looking for help with open source projects, hackathons and junior-level opportunities.
+- 💼 Job interests: Data Engineer and Analytics Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1FQOvB4pWafmm7tmP0-PQhqAMiQwJRXM3/view?usp=sharing) and contact me by emailing tyebunoluwa@gmail.com.
 
 ---
