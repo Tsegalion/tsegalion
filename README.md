@@ -5,8 +5,8 @@ I'm a Data Engineer, and I'm passionate about sharing my knowledge on building d
 
 **Here's a quick summary about me**:
 
-- 😊 Data Engineer @ iHealth and Wellnes Foundation
-- 💡 Fun fact: I'm so nice!! 😁
+- 😊 Data Engineer @ Wahed
+- 💡 Fun fact: I love being nice!! 😁
 - 🌱 I’m currently building and orchestrating job aggregation pipelines to fine-tune an AI model for seamless job searching!
 - 😊 I’m looking for help with open source projects, hackathons and junior-level opportunities.
 - 💼 Job interests: Data Engineer and Analytics Engineer.
