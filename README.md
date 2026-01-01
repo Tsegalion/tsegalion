@@ -7,7 +7,6 @@ I'm a Data Engineer, and I'm passionate about sharing my knowledge on building d
 
 - 😊 Data Engineer @ Wahed
 - 💡 Fun fact: I love being nice!! 😁
-- 🌱 I’m currently building PublicistAI
 - 💼 Job interests: Data Engineer.
 - 📫 You can contact me by emailing tyebunoluwa@gmail.com.
 
